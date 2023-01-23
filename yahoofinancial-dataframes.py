@@ -3,7 +3,7 @@ import yfinance as yf
 import os
 os.system("cls")
 
-
+# Examples book Python for Finanace 2nd Edition
 # df.head() will display the first five rows of the dataframe, 
 # and df.head(n) will display the first n rows of the dataframe.
 # df.tail() will display the last five rows of the dataframe, 
