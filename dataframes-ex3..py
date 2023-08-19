@@ -4,7 +4,7 @@ import numpy as np
 
 os.system('cls')
 
-# data = [["John", 41], ["Jane", 45], ["Jean", 56]]
+# data = [["John", 41], ["Jane", 45], ["Jean", 56],  ["Jose", 49]]
 # df = pd.DataFrame(data, columns=['Name','Age'])
 # print(df)
  
